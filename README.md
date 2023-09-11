@@ -4,31 +4,20 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+###  عبدالله ميثم باقر
 
 
-### اسم المشروع
+### دليلي
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+موقع مختص في الانشطه في الكويت من بعض النواحي
 
 
 # الأعمال المستقبلية
-
+اضافه  امور مثل رابط لوكيشن 
 
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
